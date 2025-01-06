@@ -1,8 +1,6 @@
 @inproceedings{REPO243,
     author = "Francesconi, Juan and Agustin Rodriguez, J. and Julián, Pedro M.",
     booktitle = "2014 Argentine Conference on Micro-Nanoelectronics, Technology and Applications (EAMTA)",
-    doi = "10.1109/EAMTA.2014.6906085",
-    keywords = "Monitoring;EPROM;Protocols;Libraries;Timing;Educational institutions;IEEE catalog",
     number = "",
     pages = "89-94",
     title = "{UVM based testbench architecture for unit verification}",
